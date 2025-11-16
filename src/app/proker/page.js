@@ -8,6 +8,7 @@ const SHEET_BASE_URL =
 // Configure your sheets here - add the correct gid for each sheet
 // To find the gid: open the sheet in browser, the URL will show gid=XXXXXXX for each tab
 const SHEETS = [
+  { name: "Interdisipliner", gid: "923191782" }, // replace with actual gid
   { name: "Kluster Medika", gid: "1930446062" }, // replace with actual gid
   { name: "Kluster Soshum", gid: "826689546" }, // replace with actual gid
   { name: "Kluster Saintek", gid: "697864567" }, // replace with actual gid
